@@ -7,7 +7,7 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content" 
         android:hint="Name"
-        android:layout_marginTop="62dp"
+        android:layout_marginTop="113dp"
         android:id="@+id/editText"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
